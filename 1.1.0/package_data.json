@@ -1,0 +1,47 @@
+{
+    "name": "000demo",
+    "version": "1.1.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "jquery": "^2.2.4"
+    },
+    "_id": "000demo@1.1.0",
+    "_nodeVersion": "14.20.0",
+    "_npmVersion": "6.14.17",
+    "dist": {
+        "integrity": "sha512-Cq9I+YQkm2q/rPNwYc+gqpdNsB+6gqcWHdfHA+txDyZvCf7aDyX8+vydMxZ5C9XZlg8lvfGR7cg7deo4BRRZqQ==",
+        "shasum": "27964c0ee8684e701fa940113366df93befc9312",
+        "tarball": "https://registry.npmjs.org/000demo/-/000demo-1.1.0.tgz",
+        "fileCount": 2,
+        "unpackedSize": 409,
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEUCIEyPYLWpSWERGIAyMk11KtLgJUd1j2Brf8Vn3Vhw1zlYAiEAy3ArCm8AbImSlvZM5Uvca/1sVAbZN/03LTTnPMAv16c="
+            }
+        ],
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJjDfbEACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2VmoKJQ/+JEjvFkd49cBFoHr1rXESUsY3YqvyVPI0jbkRk3eHlXv7DNm7\r\nrt4tkn7VIJK1nK6GQZyJkwR5YULqfJIt2rO3HegcBFZaJpHPfxfjUOzYlnAe\r\nN9Eer5RgZqU8+Mf8UBI/I8BtVsdwmS68T1xdTYUfjtoxf23wQnt9ye8LFngQ\r\n6QN/4Q/vyY1+qjJ5I50vj7eh1EzDaul8e2rIx5WTDI8MyNgZqmTPyiVPKAJx\r\nNK3hLaOlcdjVI8EggOqEuZMHgPgnOgJs2+5zl9AiktmqpTBoCwspx8z1w+UH\r\nrcR3AWqgGxA1qZ2RjrIbve9g8qFeLuEQaC6G3uACe8pP8gm4Hga6yWUSwqLF\r\niqJttXIlAcgJ7Auq1EW2tbQ3/jU1JIUOhvGsX10e5lpxWXRneSwadG57kjmf\r\nmS3TYeQ85//SM59CwLQDwHLUsY9CeKMeFWmh+C19N5vaMfn9CNu1n93gZtOy\r\no1EKBRSz3fkajHtopAxd2WwnWa9bgUDTnY955oHB+/3YyQaE+o25PXF4g/yi\r\nCZQ36rzB/YDGx8dZ+ddsaGGR7f5BAt4kH8AzgD+DoEGYanTXbjSwwPqhWvqr\r\n1gqwQ0cDglJcmqzch9Zma5WEGBFYlh+kRiUD3t4FXElDgI0Llav+9Yp7DZUS\r\nQzkC2SB43fz09+aepJclqVjk3y5t6EERiSA=\r\n=73Ey\r\n-----END PGP SIGNATURE-----\r\n"
+    },
+    "_npmUser": {
+        "name": "big_bule",
+        "email": "875488033@qq.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "big_bule",
+            "email": "875488033@qq.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/000demo_1.1.0_1661859524713_0.2645347457781333"
+    },
+    "_hasShrinkwrap": false
+}

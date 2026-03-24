@@ -1,0 +1,39 @@
+{
+    "name": "004-week",
+    "version": "1.0.0",
+    "description": "",
+    "main": "a.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "",
+    "license": "ISC",
+    "_id": "004-week@1.0.0",
+    "_npmVersion": "5.3.0",
+    "_nodeVersion": "8.2.1",
+    "_npmUser": {
+        "name": "panqiuna",
+        "email": "228979482@qq.com"
+    },
+    "dist": {
+        "integrity": "sha512-J8yek4ODKt47qPWKCWV6OWCi69ZJQyIQiNBWpNeYm3LYTt0gp4Ab7zXLyI6nE2P+UzYoiS2XTd4d9Ie4tpE49w==",
+        "shasum": "37f578228222eebe4a14dca03a60f7a8149681f6",
+        "tarball": "https://registry.npmjs.org/004-week/-/004-week-1.0.0.tgz",
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEYCIQDNQoBwDhfanxySa4dKf+Y7dTNmZD7yqVg3NmXcgkIrsQIhAOfdqo6SCr8FuHHqfdfJ0eGan7IRm7QUCicIc8UCZiUL"
+            }
+        ]
+    },
+    "maintainers": [
+        {
+            "name": "panqiuna",
+            "email": "228979482@qq.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/004-week-1.0.0.tgz_1504419131992_0.6426529989112169"
+    }
+}
